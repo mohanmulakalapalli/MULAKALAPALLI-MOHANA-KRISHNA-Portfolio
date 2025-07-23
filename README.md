@@ -46,6 +46,14 @@ Hi, I'm **Mulakalapalli Mohana Krishna**, a QA Automation Engineer with 3 years 
 - Created a local mock environment with **HTML/CSS pages** for safe testing without live site interaction.
 - Configured **CI-style reporting** via email and Telegram bots, showcasing expertise in browser automation and testing frameworks.
 
+### AI-Powered Selenium Framework
+*GitHub Repository*:[🤖 AI-Enhanced Hybrid Selenium Framework](https://github.com/mohanmulakalapalli/ai-powered-selenium-framework)
+
+- Built a scalable test automation framework integrating Selenium and AI to boost coverage and efficiency.
+- Developed reusable test components and enabled reliable cross-browser, parallel execution.
+- Added advanced reporting, logging, and error-handling for streamlined results and debugging.
+- Used Git and CI/CD for collaboration and modern development workflows.
+
 ---
 
 ## Accomplishments
